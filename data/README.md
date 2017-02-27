@@ -1,4 +1,4 @@
-# Airport data
+# Airport data [![npm version](http://img.shields.io/npm/v/airport-data.svg?style=flat-square)](https://www.npmjs.org/package/airport-data)
 
 > JSON version of [OpenFlights Airports Database].
 

@@ -1,4 +1,4 @@
-# Fetch airport data
+# Fetch airport data [![npm version](http://img.shields.io/npm/v/fetch-airport-data.svg?style=flat-square)](https://www.npmjs.org/package/fetch-airport-data)
 
 > Fetch the [OpenFlights Airports Database].
 
