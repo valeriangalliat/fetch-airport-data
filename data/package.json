@@ -8,7 +8,7 @@
     "name": "Valérian Galliat",
     "url": "https://val.codejam.info/"
   },
-  "main": "airports",
+  "main": "airports.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/valeriangalliat/fetch-airport-data.git"
